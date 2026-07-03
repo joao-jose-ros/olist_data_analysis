@@ -277,26 +277,6 @@ Principais observações:
 
 ---
 
-## 🚀 Como Executar o Projeto
-Clone o repositório:
-
-```bash
-git clone https://github.com/JohanoVenka/olist_data_analysis.git
-
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Abra o notebook:
-
-```bash
-jupyter notebook
-```
-
 ---
 
 ## Estrutura do Projeto
