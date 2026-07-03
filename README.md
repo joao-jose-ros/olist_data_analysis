@@ -129,7 +129,7 @@ Principais observações:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/JohanoVenka/olist_data_analysis.git
+git clone https://github.com/joao-jose-ros/olist_data_analysis.git
 
 ```
 
