@@ -1,6 +1,6 @@
-# 📊 Olist Payments Analysis
+#  Olist Payments Analysis
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 Este projeto apresenta uma análise exploratória dos dados de pagamentos do e-commerce **Olist**, utilizando **Python, Pandas e SQL**, com foco em:
 - Qualidade dos dados  
 - Comportamento de pagamento dos clientes  
@@ -10,7 +10,7 @@ Foram aplicadas etapas de **ETL (Extração, Transformação e Carga)**, limpeza
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - **Compreender** o perfil de pagamentos dos clientes  
 - **Identificar** os métodos de pagamento mais utilizados  
 - **Analisar** padrões de parcelamento  
@@ -19,7 +19,7 @@ Foram aplicadas etapas de **ETL (Extração, Transformação e Carga)**, limpeza
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.11.2-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
@@ -33,7 +33,7 @@ Foram aplicadas etapas de **ETL (Extração, Transformação e Carga)**, limpeza
 
 ---
 
-## 📂 Dataset
+## Dataset
 Foram utilizados os seguintes datasets:
 - `olist_order_payments_dataset.csv`  
 - `olist_orders_dataset.csv`  
@@ -52,7 +52,7 @@ As tabelas foram integradas para permitir análises mais completas sobre pagamen
 
 ---
 
-## 🔄 Processo ETL
+## Processo ETL
 
 ### 1. Extração
 - Importação dos datasets CSV utilizando Pandas
@@ -70,7 +70,7 @@ As tabelas foram integradas para permitir análises mais completas sobre pagamen
 
 ---
 
-## 📊 Análise Exploratória
+## Análise Exploratória
 
 ### Métodos de Pagamento
 - Predominância do **cartão de crédito**
@@ -89,7 +89,7 @@ As tabelas foram integradas para permitir análises mais completas sobre pagamen
 
 ---
 
-## 💡 Principais Insights
+##  Principais Insights
 1. O **cartão de crédito** concentra a maior parte das transações
 2. Grande parte dos clientes prefere **pagamentos à vista** ou com baixo número de parcelas
 3. Existem casos com **parcelamentos muito elevados**, indicando possíveis riscos financeiros
@@ -106,7 +106,7 @@ As tabelas foram integradas para permitir análises mais completas sobre pagamen
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Clone o repositório:
 ```bash
@@ -125,7 +125,7 @@ jupyter notebook
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 olist-payments-analysis/
@@ -156,7 +156,7 @@ olist-payments-analysis/
 
 ---
 
-## 🔮 Próximos Passos
+## Próximos Passos
 - Criar visualizações mais avançadas
 - Integrar a análise com as tabelas de produtos, itens e clientes
 - Construir dashboard em Power BI
