@@ -96,7 +96,7 @@ As tabelas foram integradas para permitir análises mais completas sobre pagamen
 
 ---
 
-## 📈 Recomendações de Negócio
+## Recomendações de Negócio
 
 1. **Incentivar pagamentos à vista** — criar campanhas de desconto para reduzir custos operacionais e riscos financeiros
 2. **Monitorar parcelamentos elevados** — acompanhar pedidos com muitas parcelas para avaliar inadimplência e perfil de risco
@@ -165,6 +165,6 @@ olist-payments-analysis/
 
 ---
 
-## 👤 Autor
+## Autor
 **João José R. O. Silva**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20José-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-jose-ribeiro-oliveira-silva/
